@@ -1,0 +1,21 @@
+{
+  "name": "galas-api-client",
+  "version": "1.0.0",
+  "description": "npm package for galas api",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asxcandrew/galas-api-client.git"
+  },
+  "keywords": [
+    "galas"
+  ],
+  "author": "Andrey Skoryk asxcandrew@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asxcandrew/galas-api-client/issues"
+  },
+  "homepage": "https://github.com/asxcandrew/galas-api-client#readme"
+}
